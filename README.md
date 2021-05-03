@@ -18,3 +18,4 @@ Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
 - [ ] construction de la version "code"
 
 ## Bilan de la semaine (problèmes, questions, etc.)
+Activité 3 mai: modifier les nomenclatures "Source", modification dans "recherche exacte", filtration des segments
