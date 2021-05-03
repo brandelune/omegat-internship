@@ -2,7 +2,7 @@
 ## Semaine 1 (3 mai - 7 mai)
 Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
 
-- [x ] créer un compte mail *
+- [x] créer un compte mail *
 - [x] installer OmegaT
 - [ ] paramétrer OmegaT
 - [x] créer un compte GitHub
