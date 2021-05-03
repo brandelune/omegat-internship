@@ -17,4 +17,4 @@ Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
 - [ ] acquisition de la version "code"
 - [ ] construction de la version "code"
 
-## bilan de la semaine (problèmes, questions, etc.)
+## Bilan de la semaine (problèmes, questions, etc.)
