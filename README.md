@@ -1,5 +1,5 @@
 # Stage OmegaT 3 mai-2 août 2021
-## Semaine 1 (3 mai - 9 mai)
+## Semaine 1 (3 mai - 7 mai)
 Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
 
 - [ ] créer un compte mail *
