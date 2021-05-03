@@ -11,9 +11,9 @@ Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
 - [ ] s'enregistrer sur le canal Telegram *
 - [ ] s'enregistrer sur la liste utilisateurs Sourceforge *
 - [x] téléchargement du projet FR
-- [ ] prise en main d'OmegaT
-- [ ] début des vérifications
-- [ ] vérification qu'elles sont bien prises en compte dans le dépôt
+- [x] prise en main d'OmegaT
+- [x] début des vérifications
+- [x] vérification qu'elles sont bien prises en compte dans le dépôt
 - [ ] acquisition de la version "code"
 - [ ] construction de la version "code"
 
