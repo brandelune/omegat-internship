@@ -16,3 +16,5 @@ Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
 - [ ] vérification qu'elles sont bien prises en compte dans le dépôt
 - [ ] acquisition de la version "code"
 - [ ] construction de la version "code"
+
+## bilan de la semaine (problèmes, questions, etc.)
