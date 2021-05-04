@@ -19,3 +19,4 @@ Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
 
 ## Bilan de la semaine (problèmes, questions, etc.)
 Activité 3 mai: modifier les nomenclatures "Source", modification dans "recherche exacte", filtration des segments
+Activité 4 mai : Correction des erreurs dans « afficher les erreurs pour le document actuel »,  erreurs pour Bundle.properties 
