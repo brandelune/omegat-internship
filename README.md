@@ -18,6 +18,6 @@ Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
 - [ ] construction de la version "code"
 
 ## Bilan de la semaine (problèmes, questions, etc.)
--Activité 3 mai: modifier les nomenclatures "Source", modification dans "recherche exacte", filtration des segments
--Activité 4 mai : Correction des erreurs dans « afficher les erreurs pour le document actuel »,  erreurs pour Bundle.properties 
--Activité 5 mai : Correction des segments du PDF OmegaT_documentation_fr_0505, recherche sur la partie fautive dans OmegaT, correction dans les Notes de segments
+- Activité 3 mai: modifier les nomenclatures "Source", modification dans "recherche exacte", filtration des segments
+- Activité 4 mai : Correction des erreurs dans « afficher les erreurs pour le document actuel »,  erreurs pour Bundle.properties 
+- Activité 5 mai : Correction des segments du PDF OmegaT_documentation_fr_0505, recherche sur la partie fautive dans OmegaT, correction dans les Notes de segments
