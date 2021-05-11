@@ -1,5 +1,6 @@
 # Stage OmegaT 3 mai-2 août 2021
 ## Semaine 2 (10 mai - 14 mai)
+- [bilan du 10 mai](https://github.com/brandelune/omegat-internship/issues/1)
 ### Tâches à accomplir
 Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
 - [ ] relire le PDF pages 6 - 35 (avant "Règles de segmentation")
