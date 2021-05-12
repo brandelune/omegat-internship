@@ -24,7 +24,7 @@ Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
 - [x] début des vérifications
 - [x] vérification qu'elles sont bien prises en compte dans le dépôt
 ### Bilan de la semaine (problèmes, questions, etc.)
-- [bilan du 4 mai](https://github.com/brandelune/omegat-internship/issues/1)
+- [bilan du 3 et 4 mai](https://github.com/brandelune/omegat-internship/issues/1)
 - [bilan du 5 mai](https://github.com/brandelune/omegat-internship/issues/2)
 - [bilan du 6 mai](https://github.com/brandelune/omegat-internship/issues/3)
 - [bilan du 7 mai](https://github.com/brandelune/omegat-internship/issues/4)
