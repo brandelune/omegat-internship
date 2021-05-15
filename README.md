@@ -3,6 +3,7 @@
 ### Tâches à accomplir
 Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
 - [ ] relire le PDF pages 6 - 35 (avant "Règles de segmentation")
+
 (il y a eu une légère prise de retard pour solutionner un problème technique le [11 mai](https://github.com/brandelune/omegat-internship/issues/8#issuecomment-838652439) donc la lecture n'est allée que jusqu'à la page 32)
 - [ ] créer un compte Twitter *
 - [ ] s'enregistrer sur le canal Telegram *
