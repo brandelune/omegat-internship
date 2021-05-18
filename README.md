@@ -9,6 +9,7 @@ Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
 - [ ] acquisition de la version "code"
 - [ ] construction de la version "code"
 ### Bilan de la semaine (problèmes, questions, etc.)
+- [bilan du 17 mai](https://github.com/brandelune/omegat-internship/issues/12)
 ## Semaine 2 (10 mai - 14 mai)
 ### Tâches à accomplir
 Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
