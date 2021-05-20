@@ -12,6 +12,7 @@ Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
 - [bilan du 17 mai](https://github.com/brandelune/omegat-internship/issues/12)
 - [bilan du 18 mai](https://github.com/brandelune/omegat-internship/issues/13)
 - [bilan du 19 mai](https://github.com/brandelune/omegat-internship/issues/14)
+- [bilan du 20 mai](https://github.com/brandelune/omegat-internship/issues/15)
 ## Semaine 2 (10 mai - 14 mai)
 ### Tâches à accomplir
 Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
