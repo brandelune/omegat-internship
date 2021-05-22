@@ -2,6 +2,7 @@
 ## Semaine 3 (17 mai - 21 mai)
 ### Tâches à accomplir
 Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
+- [ ] relire le PDF, pages 36 - 60
 - [ ] créer un compte Twitter *
 - [ ] s'enregistrer sur le canal Telegram *
 - [ ] s'enregistrer sur la liste utilisateurs Sourceforge *
