@@ -6,7 +6,7 @@ Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
 - [ ] s'enregistrer sur le canal Telegram *
 - [ ] s'enregistrer sur la liste utilisateurs Sourceforge *
 - [ ] créer une clé SSH
-- [ ] acquisition de la version "code"
+- [x] acquisition de la version "code"
 - [ ] construction de la version "code"
 ### Bilan de la semaine (problèmes, questions, etc.)
 - [bilan du 17 mai](https://github.com/brandelune/omegat-internship/issues/12)
