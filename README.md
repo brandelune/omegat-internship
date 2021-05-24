@@ -1,8 +1,17 @@
 # Stage OmegaT 3 mai-2 août 2021
+## Semaine 4 (24 mai - 28 mai)
+### Tâches à accomplir
+Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
+- [ ] créer un compte Twitter *
+- [ ] s'enregistrer sur le canal Telegram *
+- [ ] s'enregistrer sur la liste utilisateurs Sourceforge *
+- [ ] créer une clé SSH
+- [x] acquisition de la version "code"
+- [ ] construction de la version "code"
 ## Semaine 3 (17 mai - 21 mai)
 ### Tâches à accomplir
 Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
-- [ ] relire le PDF, pages 36 - 60
+- [x] relire le PDF, pages 36 - 60
 - [ ] créer un compte Twitter *
 - [ ] s'enregistrer sur le canal Telegram *
 - [ ] s'enregistrer sur la liste utilisateurs Sourceforge *
