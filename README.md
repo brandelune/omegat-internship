@@ -8,6 +8,7 @@ Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
 - [ ] créer une clé SSH
 - [x] acquisition de la version "code"
 - [ ] construction de la version "code"
+### Bilan de la semaine (problèmes, questions, etc.)
 ## Semaine 3 (17 mai - 21 mai)
 ### Tâches à accomplir
 Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
