@@ -2,6 +2,8 @@
 ## Semaine 4 (24 mai - 28 mai)
 ### Tâches à accomplir
 Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
+- [x] correction jusqu'à la dernière page 
+- [x] rédaction d'un bilan du mois 
 - [ ] créer un compte Twitter *
 - [ ] s'enregistrer sur le canal Telegram *
 - [ ] s'enregistrer sur la liste utilisateurs Sourceforge *
