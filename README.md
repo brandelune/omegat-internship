@@ -15,6 +15,7 @@ Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
 - [bilan du 1 juin](https://github.com/brandelune/omegat-internship/issues/22)
 - [bilan du 2 juin](https://github.com/brandelune/omegat-internship/issues/23)
 - [bilan du 3 juin](https://github.com/brandelune/omegat-internship/issues/24)
+- [bilan du 4 juin](https://github.com/brandelune/omegat-internship/issues/25)
 ## Semaine 4 (24 mai - 28 mai)
 ### Tâches à accomplir
 Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
