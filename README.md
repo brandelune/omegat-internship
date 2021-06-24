@@ -14,6 +14,7 @@ Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
 - [bilan du 21 juin](https://github.com/brandelune/omegat-internship/issues/43)
 - [bilan du 22 juin](https://github.com/brandelune/omegat-internship/issues/44)
 - [bilan du 23 juin](https://github.com/brandelune/omegat-internship/issues/45)
+- [bilan du 24 juin](https://github.com/brandelune/omegat-internship/issues/46)
 ## Semaine 7 (14 juin - 18 juin)
 ### Tâches à accomplir
 Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
