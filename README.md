@@ -1,5 +1,5 @@
 # Stage OmegaT 3 mai-2 août 2021
-## Semaine 9 (28 juin - 2 juin)
+## Semaine 9 (28 juin - 2 juillet)
 ### Tâches à accomplir
 Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
 - [ ] Mise à jour du manuel anglais
