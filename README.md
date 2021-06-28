@@ -11,7 +11,7 @@ Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
 - [ ] créer une clé SSH
 - [ ] construction de la version "code"
 ### Bilan de la semaine (problèmes, questions, etc.)
-- [bilan du 25 juin](https://github.com/brandelune/omegat-internship/issues/48)
+- [bilan du 28 juin](https://github.com/brandelune/omegat-internship/issues/48)
 ## Semaine 8 (21 juin - 25 juin)
 ### Tâches à accomplir
 Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
