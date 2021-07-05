@@ -7,6 +7,7 @@ Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
 - [ ] s'enregistrer sur la liste utilisateurs Sourceforge *
 - [ ] créer une clé SSH
 - [ ] construction de la version "code"
+### Bilan de la semaine (problèmes, questions, etc.)
 ## Semaine 9 (28 juin - 2 juillet)
 ### Tâches à accomplir
 Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
