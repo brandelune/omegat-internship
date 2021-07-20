@@ -1,4 +1,13 @@
 # Stage OmegaT 3 mai-2 août 2021
+## Semaine 12 (19 juillet - 23 juillet)
+### Tâches à accomplir
+Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires  
+- [ ] créer un compte Twitter *
+- [ ] s'enregistrer sur le canal Telegram *
+- [ ] s'enregistrer sur la liste utilisateurs Sourceforge *
+- [ ] créer une clé SSH
+- [ ] construction de la version "code"
+### Bilan de la semaine (problèmes, questions, etc.)
 ## Semaine 11 (12 juillet - 16 juillet)
 ### Tâches à accomplir
 Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires  
