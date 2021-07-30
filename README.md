@@ -10,6 +10,7 @@ Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires
 ### Bilan de la semaine (problèmes, questions, etc.)
 - [bilan du 26 juillet](https://github.com/brandelune/omegat-internship/issues/62)
 - [bilan du 27 juillet](https://github.com/brandelune/omegat-internship/issues/63)
+- [bilan du 28 juillet](https://github.com/brandelune/omegat-internship/issues/64)
 ## Semaine 12 (19 juillet - 23 juillet)
 ### Tâches à accomplir
 Les taches qui sont accompagnées d'une astérisque ne sont pas obligatoires  
